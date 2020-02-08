@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="your_score">Scorul Tau</string>
+    <string name="hint">Introduceti numele</string>
+    <string name="restart">Restart</string>
+    <string name="scorzero">0</string>
+    <string name="Scor">Scor</string>
+    <string name="Intrebari">Intrebari</string>
+    <string name="UrmatoareaIntrebare">Urmatoarea intrebare</string>
+    <string name="Exit">Exit</string>
+    <string name="option">option</string>
+    <string name="textViewContent">Avem text aici</string>
+    <string name="about">About</string>
+    <string name="joaca">Joaca</string>
+</resources>
